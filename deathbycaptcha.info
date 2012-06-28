@@ -1,0 +1,6 @@
+name = Death by Captcha
+description = Integration with DeathByCaptcha captcha solver service
+core = 7.x
+package = Security
+files[] = deathbycaptcha.test
+
